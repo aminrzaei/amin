@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": [
+    "**/node_modules/**",
+    "**/package.json"
+  ],
+  "dictionaries": [
+    "node",
+    "keywords"
+  ],
+  "words": [
+    "itisamin",
+    "fullstacksjs",
+    "Amin Rezaei"
+  ]
+}
